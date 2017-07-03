@@ -99,3 +99,20 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# myignore
+*.log
+*.dat
+*.out
+*.pid
+*.gz
+*.*~
+*.swp
+*.pyc
+videos/*
+logfiles/*
+.ropeproject/
+.idea/
+
+# mac
+.DS_Store
