@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+	<color_marks>
+		<color_mark id="01" name="forceps" type="instrument" meta="blue" num_of_marks="2">
+			<lower_color H="101" S="164" V="40" />
+			<upper_color H="171" S="255" V="255" />
+		</color_mark>
+		<color_mark id="02" name="dissector" type="instrument" meta="yellow" num_of_marks="2">
+			<lower_color H="20" S="35" V="40" />
+			<upper_color H="75" S="255" V="255" />
+		</color_mark>
+		<color_mark id="03" name="left_pan" type="pan" meta="green" num_of_marks="1">
+			<lower_color H="30" S="40" V="42" />
+			<upper_color H="94" S="255" V="255" />
+		</color_mark>
+		<color_mark id="04" name="right_pan" type="pan" meta="green" num_of_marks="1">
+			<lower_color H="30" S="40" V="42" />
+			<upper_color H="94" S="255" V="255" />
+		</color_mark>
+		<color_mark id="05" name="object" type="object" meta="brown" num_of_marks="1">
+			<!--<lower_color H="0" S="45" V="61" />
+			<upper_color H="11" S="164" V="172" />-->
+			<lower_color H="125" S="45" V="25" />
+			<upper_color H="179" S="255" V="255" />
+		</color_mark>
+	</color_marks>
+</config>
