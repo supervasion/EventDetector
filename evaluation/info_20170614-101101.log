@@ -1,0 +1,148 @@
+events.py: =======================================
+events.py: Instrument: forceps
+events.py: Frame: 121
+events.py: Time_Frame: 15
+events.py: Event: appears
+events.py: =======================================
+events.py: =======================================
+events.py: Instrument: forceps
+events.py: Frame: 133
+events.py: Time_Frame: 16
+events.py: Event: starts_moving
+events.py: =======================================
+events.py: =======================================
+events.py: Instrument: forceps
+events.py: Frame: 140
+events.py: Time_Frame: 17
+events.py: Event: stops
+events.py: =======================================
+events.py: =======================================
+events.py: Instrument: forceps
+events.py: Frame: 140
+events.py: Time_Frame: 17
+events.py: Event: opens
+events.py: =======================================
+events.py: =======================================
+events.py: Instrument: forceps
+events.py: Frame: 162
+events.py: Time_Frame: 21
+events.py: Event: starts_moving
+events.py: =======================================
+events.py: =======================================
+events.py: Instrument: forceps
+events.py: Frame: 162
+events.py: Time_Frame: 21
+events.py: Event: crosses_in_10
+events.py: Target: right_pan
+events.py: =======================================
+events.py: =======================================
+events.py: Instrument: forceps
+events.py: Frame: 173
+events.py: Time_Frame: 23
+events.py: Event: crosses_in_5
+events.py: Target: right_pan
+events.py: =======================================
+events.py: =======================================
+events.py: Time_Frame: 25
+events.py: Instrument: forceps
+events.py: Frame: 185
+events.py: Object: Bean
+events.py: Event: picks
+events.py: =======================================
+events.py: =======================================
+events.py: Instrument: forceps
+events.py: Frame: 194
+events.py: Time_Frame: 26
+events.py: Event: stops
+events.py: =======================================
+events.py: =======================================
+events.py: Instrument: forceps
+events.py: Frame: 215
+events.py: Time_Frame: 29
+events.py: Event: crosses_out_5
+events.py: Target: right_pan
+events.py: =======================================
+events.py: =======================================
+events.py: Instrument: forceps
+events.py: Frame: 218
+events.py: Time_Frame: 30
+events.py: Event: crosses_out_10
+events.py: Target: right_pan
+events.py: =======================================
+events.py: =======================================
+events.py: Instrument: forceps
+events.py: Frame: 219
+events.py: Time_Frame: 30
+events.py: Event: starts_moving
+events.py: =======================================
+events.py: =======================================
+events.py: Instrument: forceps
+events.py: Frame: 245
+events.py: Time_Frame: 34
+events.py: Event: crosses_in_10
+events.py: Target: left_pan
+events.py: =======================================
+events.py: =======================================
+events.py: Instrument: forceps
+events.py: Frame: 247
+events.py: Time_Frame: 34
+events.py: Event: crosses_in_5
+events.py: Target: left_pan
+events.py: =======================================
+events.py: =======================================
+events.py: Instrument: forceps
+events.py: Frame: 264
+events.py: Time_Frame: 37
+events.py: Event: stops
+events.py: =======================================
+events.py: =======================================
+events.py: Instrument: forceps
+events.py: Frame: 283
+events.py: Time_Frame: 40
+events.py: Event: opens
+events.py: =======================================
+events.py: =======================================
+events.py: Time_Frame: 40
+events.py: Instrument: forceps
+events.py: Frame: 283
+events.py: Object: Bean
+events.py: Event: drops
+events.py: =======================================
+events.py: =======================================
+events.py: Instrument: forceps
+events.py: Frame: 284
+events.py: Time_Frame: 40
+events.py: Event: crosses_out_5
+events.py: Target: left_pan
+events.py: =======================================
+events.py: =======================================
+events.py: Instrument: forceps
+events.py: Frame: 286
+events.py: Time_Frame: 40
+events.py: Event: starts_moving
+events.py: =======================================
+events.py: =======================================
+events.py: Instrument: forceps
+events.py: Frame: 288
+events.py: Time_Frame: 41
+events.py: Event: crosses_out_10
+events.py: Target: left_pan
+events.py: =======================================
+events.py: =======================================
+events.py: Instrument: forceps
+events.py: Frame: 302
+events.py: Time_Frame: 43
+events.py: Event: stops
+events.py: =======================================
+events.py: =======================================
+events.py: Instrument: forceps
+events.py: Frame: 307
+events.py: Time_Frame: 44
+events.py: Event: closes
+events.py: =======================================
+events.py: =======================================
+events.py: Instrument: forceps
+events.py: Frame: 317
+events.py: Time_Frame: 45
+events.py: Event: disappears
+events.py: =======================================
