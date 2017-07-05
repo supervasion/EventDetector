@@ -15,9 +15,23 @@ Then, create a Python virtualenv so needed libraries don't affect system librari
 Note that file system paths might differ in your computer.
 
 ```bash
-conda create -n supervasion python=x.x anaconda
+conda create -n supervasion python=2.7 anaconda
+```
+
+For the virtualenv activation. 
+
+On Mac/Linux:
+
+```bash
 source activate supervasion
 ```
+
+On Windows:
+
+```bash
+activate supervasion
+```
+
 
 ### Prototype dependencies
 
