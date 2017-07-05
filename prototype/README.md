@@ -4,7 +4,7 @@ This component process video recordings with the exercise perfomance, generating
 
 ## Setup
 
-We'll use Python 2.7.
+We use Python 2.7.
 
 ### Recommended
 
