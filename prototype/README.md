@@ -6,7 +6,7 @@ This component process video recordings with the exercise perfomance, generating
 
 We'll use Python 2.7.
 
-### RECOMMENDED
+### Recommended
 
 First of all, we recommend to install and use [Anaconda](https://www.continuum.io/downloads) python distribution.
 
@@ -37,7 +37,10 @@ pip install -r requirements.txt
 
 **Note:** Make sure that you have activated your `supervasion` virtualenv (`source activate supervasion`).
 
+The prototype can be executed with the following command:
+
 ```bash
 python main.py -n videos/exercise_1/video_example_cam_1.mp4 videos/exercise_1/video_example_cam_2.mp4
 ```
 
+After execution, the prototype will generate an output file with the sequence of events detected in the `logfiles` folder. The `Frame`and `Time-Frame` fields indicate the concrete frame and the instant of time when an event is detected. Additionally, the fields `Event`, `Instrument` and `Target` contain information about the type of event and its parameters. 
