@@ -18,9 +18,7 @@ Note that file system paths might differ in your computer.
 conda create -n supervasion python=2.7 anaconda
 ```
 
-For the virtualenv activation. 
-
-On Mac/Linux:
+For the virtualenv activation (on Mac/Linux):
 
 ```bash
 source activate supervasion
