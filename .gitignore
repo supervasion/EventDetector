@@ -109,6 +109,8 @@ ENV/
 *.pyc
 .ropeproject/
 .idea/
+prototype/logfiles/*
+!prototype/logfiles/info_20170614-101101.log
 
 # mac
 .DS_Store
